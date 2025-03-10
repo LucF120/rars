@@ -82,7 +82,7 @@ public class SettingsScaleAction extends GuiAction {
             processBuilder.start();
         } 
         catch(Exception ex) {
-            // Do nothing if the above fails. 
+            // Do nothing if the above fails
         }
     }
 
